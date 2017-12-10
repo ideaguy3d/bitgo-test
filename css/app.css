@@ -1,0 +1,19 @@
+.header-directive {
+
+}
+
+table {
+    font-size: 24px;
+    width: 100%;
+}
+
+table tr {
+    cursor: pointer;
+    height: 60px;
+    border-bottom: 2px solid #111;
+}
+
+table input {
+    position: relative;
+    top: -3px;
+}
