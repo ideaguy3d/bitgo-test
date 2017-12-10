@@ -2,6 +2,10 @@
 
 }
 
+#main-view {
+    padding: 16px;
+}
+
 table {
     font-size: 24px;
     width: 100%;
